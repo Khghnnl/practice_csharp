@@ -1,0 +1,30 @@
+﻿@model IEnumerable<_20251118_ToDoApp_1.Models.Todo>
+
+    <h2>Todo List</h2>
+
+    <p>
+        <a href = "/Todo/Create">+ Add Todo</a>
+    </p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Status</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+            <tr>
+                <td>@item.Title</td>
+                <td>@(item.IsDone ? "Done" : "Not Yet")</td>
+                <td>
+                    <a href = "/Todo/Toggle/@item.Id">Toggle</a>
+                    <a href =" /Todo/Delete/@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
