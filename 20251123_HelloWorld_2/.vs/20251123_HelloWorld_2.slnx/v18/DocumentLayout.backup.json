@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\practice_csharp\\20251123_HelloWorld_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7E21A-AEBB-43A6-B69C-E8A64D175027}|20251123_HelloWorld_2\\20251123_HelloWorld_2.csproj|c:\\dev\\practice_csharp\\20251123_helloworld_2\\20251123_helloworld_2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCA7E21A-AEBB-43A6-B69C-E8A64D175027}|20251123_HelloWorld_2\\20251123_HelloWorld_2.csproj|solutionrelative:20251123_helloworld_2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA7E21A-AEBB-43A6-B69C-E8A64D175027}|20251123_HelloWorld_2\\20251123_HelloWorld_2.csproj|c:\\dev\\practice_csharp\\20251123_helloworld_2\\20251123_helloworld_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA7E21A-AEBB-43A6-B69C-E8A64D175027}|20251123_HelloWorld_2\\20251123_HelloWorld_2.csproj|solutionrelative:20251123_helloworld_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\dev\\practice_csharp\\20251123_HelloWorld_2\\20251123_HelloWorld_2\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "20251123_HelloWorld_2\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\dev\\practice_csharp\\20251123_HelloWorld_2\\20251123_HelloWorld_2\\Pages\\Index.cshtml",
+              "RelativeToolTip": "20251123_HelloWorld_2\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-23T11:18:03.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\practice_csharp\\20251123_HelloWorld_2\\20251123_HelloWorld_2\\Program.cs",
+              "RelativeDocumentMoniker": "20251123_HelloWorld_2\\Program.cs",
+              "ToolTip": "C:\\dev\\practice_csharp\\20251123_HelloWorld_2\\20251123_HelloWorld_2\\Program.cs",
+              "RelativeToolTip": "20251123_HelloWorld_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T11:03:31.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
