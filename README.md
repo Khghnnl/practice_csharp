@@ -6,3 +6,4 @@ C#練習用のプロジェクトをまとめたリポジトリです。
 - 20251118_ToDoApp_1：1画面で構成されたToDoアプリ。RazorPagesを使用。
 - 20251123_HelloWorld_2：WebブラウザにHelloWorldを表示
 - 20251124_JankenThreeWinsGame_1：じゃんけんゲーム（コンソール）。条件分岐の練習。
+- 20251124_JankenThreeWinsGame_2：じゃんけんゲーム（Webブラウザ）。条件分岐、セッションの使用。
