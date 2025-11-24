@@ -1,0 +1,23 @@
+﻿@page
+@model IndexModel
+
+<h1>じゃんけんゲーム</h1>
+
+<p>あなたの手を選んでください</p>
+
+<button onclick="play('rock')">グー</button>
+<button onclick="play('scissors')">チョキ</button>
+<button onclick="play('paper')">パー</button>
+
+<h2 id="result"></h2>
+<h3 id="status"></h3>
+
+<script>
+    async function play(userHand){
+        const res = await fetch(`/Index?handler=Play&hand=${userHand}`);
+        const data = await res.json();
+
+        document.getElementById("result").innerText = data.message;
+        document.getElementById("status").innerText = "連勝数：" + data.winStreak;
+    }
+</script>
